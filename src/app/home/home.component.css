@@ -1,0 +1,34 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .titulo {
+    margin-left: 8px;
+  }
+
+  .menu {
+    background-color: rgb(56, 56, 63);
+    color: antiquewhite;
+    margin-bottom: 10px;
+  }
+
+  h3 {
+    margin-top: 10px;
+    font-weight: 700;
+  }
